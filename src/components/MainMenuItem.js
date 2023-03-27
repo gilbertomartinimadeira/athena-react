@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function MainMenuItem(props) {
     
     const newTitle = props.title[0].toUpperCase() + props.title.slice(1, props.title.length);

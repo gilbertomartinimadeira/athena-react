@@ -1,3 +1,4 @@
+import React from 'react';
 import MainMenuItem from "./MainMenuItem";
 
 import customers_icon from '../images/customers-icon-29.png';

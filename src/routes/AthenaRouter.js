@@ -10,6 +10,7 @@ import Importacao from './Importacao';
 import Pagamentos from './Pagamentos';
 import ErrorPage from '../components/ErrorPage';
 import { createBrowserRouter ,Navigate } from 'react-router-dom';
+import React from 'react';
 
 export default function AthenaRouter() {
     const router = createBrowserRouter([
